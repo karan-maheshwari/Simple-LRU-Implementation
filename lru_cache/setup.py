@@ -8,8 +8,8 @@ setup(
   description = 'A simple implementation of LRU Caching algorithm.',
   author = 'Karan Maheshwari',
   author_email = 'kdmahesh@usc.edu',
-  url = 'https://github.com/karan-maheshwari',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  url = 'https://github.com/karan-maheshwari',
+  download_url = 'https://github.com/karan-maheshwari/Simple-LRU-Implementation/archive/v_01.tar.gz',
   keywords = ['lru', 'cache', 'caching'],
   install_requires=[],
   classifiers=[
