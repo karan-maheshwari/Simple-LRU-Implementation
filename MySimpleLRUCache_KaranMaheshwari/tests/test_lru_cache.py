@@ -1,5 +1,5 @@
 import unittest
-from lru_cache import LRUCache
+from MySimpleLRUCache_KaranMaheshwari import LRUCache
 
 
 class TestLRUCache(unittest.TestCase):
