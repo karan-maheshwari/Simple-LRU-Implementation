@@ -9,7 +9,7 @@ setup(
   author = 'Karan Maheshwari',
   author_email = 'karanmaheshwari24@gmail.com',
   url = 'https://github.com/karan-maheshwari',
-  download_url = 'https://github.com/karan-maheshwari/Simple-LRU-Implementation/archive/v_04.tar.gz',
+  download_url = 'https://github.com/karan-maheshwari/Simple-LRU-Implementation/archive/v_05.tar.gz',
   keywords = ['lru', 'cache', 'caching'],
   install_requires=[],
   classifiers=[
