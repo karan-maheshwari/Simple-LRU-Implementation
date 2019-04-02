@@ -3,4 +3,4 @@ setup.cfg
 setup.py
 MySimpleLRUCache_KaranMaheshwari/__init__.py
 MySimpleLRUCache_KaranMaheshwari/lru_cache.py
-MySimpleLRUCache_KaranMaheshwari/helper/helper.py
+MySimpleLRUCache_KaranMaheshwari/helper.py
