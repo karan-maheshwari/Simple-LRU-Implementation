@@ -1,7 +1,7 @@
 import time
 import collections
 import logging
-from helper.helper import is_signed_32_bit_integer_format
+from MySimpleLRUCache_KaranMaheshwari.helper.helper import is_signed_32_bit_integer_format
 
 logging.basicConfig(filename='./app.log', filemode='w', level=logging.DEBUG,
 					format='%(name)s - %(levelname)s - %(message)s')
