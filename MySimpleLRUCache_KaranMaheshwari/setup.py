@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'MySimpleLRUCache_KaranMaheshwari',
   packages = ['MySimpleLRUCache_KaranMaheshwari'],
-  version = '0.5',
+  version = '1.0',
   license='MIT',
   description = 'A simple implementation of LRU Caching algorithm.',
   author = 'Karan Maheshwari',

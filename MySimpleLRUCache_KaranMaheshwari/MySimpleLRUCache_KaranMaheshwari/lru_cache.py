@@ -37,8 +37,7 @@ class LRUCache:
 		:return: True if key exists in the cache else False
 		"""
 		try:
-			# self.__cache.pop(key)
-			self.__cache.move_to_end(key, last=True)
+			self.__cache.pop(key)
 			self.__cache[key] = time.time()
 			logging.info(str(key) + " exists in cache. Updated last used time.")
 			return True
