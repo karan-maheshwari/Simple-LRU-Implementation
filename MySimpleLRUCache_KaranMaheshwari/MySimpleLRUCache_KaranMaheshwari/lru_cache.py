@@ -15,7 +15,7 @@ class LRUCache:
 		__cache: An ordered dictionary that holds inserted integers as keys and their last used timestamp as respective values.
 	"""
 
-	def __init__(self, max_capacity):
+	def __init__(self, max_capacity=5):
 		"""
 		Constructs a new LRUCache object.
 
